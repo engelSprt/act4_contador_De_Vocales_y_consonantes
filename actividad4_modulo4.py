@@ -74,4 +74,5 @@ if _name_ == "_main_":
     ui = Ui_MainWindow()
     ui.main(MainWindow)
     MainWindow.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec_())}
+    
